@@ -94,7 +94,7 @@ Jika pengguna memasukkan kapasitas `0` atau angka negatif, program akan meminta 
 
 **Letak:** `InputValidator.java`, pada method `inputMenu()`.
 
-![Uploading Screenshot 2026-09-10 020415.png…]()
+<img width="398" height="50" alt="Screenshot 2026-09-10 020415" src="https://github.com/user-attachments/assets/5de315f3-f8a9-49e8-90d1-fa28ba488876" />
 
 Jika pengguna memasukkan angka di luar menu `1–5`, program akan meminta pilihan menu kembali.
 
